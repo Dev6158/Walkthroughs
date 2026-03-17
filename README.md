@@ -19,16 +19,19 @@ Each writeup focuses on:
 - Reproducibility  
 
 ---
-
 ## 📂 Repository Structure
+
+```
+.
 ├── README.md
 ├── bandit/
-│ ├── level0.md
-│ ├── level1.md
-│ └── ...
+│   ├── level0.md
+│   ├── level1.md
+│   └── ...
 ├── gandalf/
-│ └── README.md
+│   └── README.md
 ├── future-challenges/
+```
 
 
 ---
